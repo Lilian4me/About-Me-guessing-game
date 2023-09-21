@@ -12,10 +12,7 @@ while (!user) {
 }
 
 if (user !== "Sam") {
-  alert(
-    "Urgh, you could have been called Lilian! Instead, you have a silly name like " +
-      user
-  );
+  alert("You are welcome to this interractive site " + user);
 }
 
 alert("Hello " + user + ". Would you like to play a game?");

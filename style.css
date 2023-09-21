@@ -1,0 +1,23 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+h1 {
+  color: rgb(19, 11, 11);
+}
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 30;
+}
+p {
+  color: rgb(19, 11, 11);
+}
+/* Header/Logo Title */
